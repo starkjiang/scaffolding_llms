@@ -1,0 +1,8 @@
+{
+  "E212": {"title": "Hydraulic pressure low", "doc": "harvester_manual", "section": "E212", "safety": false,
+           "article": "Check reservoir sight glass and fill with HX Hydraulic Fluid 46; inspect/replace suction filter HX-F-4410; if persists, dealer pump inspection."},
+  "E305": {"title": "Feeder house chain speed sensor fault", "doc": "harvester_manual", "section": "E305", "safety": false,
+           "article": "Check sensor gap 1.5-2.5 mm (adjust with two M8 bolts); inspect harness near feeder house pivot; replace sensor HX-S-2270 if fault persists."},
+  "E410": {"title": "Engine coolant temperature high", "doc": "harvester_manual", "section": "E410", "safety": true,
+           "article": "Stop operation immediately; idle 3 minutes before shutdown; clean rotating radiator screen; check coolant when cool; do not resume until normal; contact dealer if it recurs."}
+}

@@ -1,0 +1,11 @@
+{
+  "Product X": {
+    "corn":    {"rate": "2.5", "unit": "fl oz/acre", "max_applications": 2, "phi_days": 45, "rei_hours": 12, "source": "product_x_label#Crops and Application Rates"},
+    "soybean": {"rate": "2.0", "unit": "fl oz/acre", "max_applications": 1, "phi_days": 60, "rei_hours": 12, "source": "product_x_label#Crops and Application Rates"},
+    "wheat":   {"rate": "1.5", "unit": "fl oz/acre", "max_applications": 1, "phi_days": 30, "rei_hours": 12, "source": "product_x_label#Crops and Application Rates"}
+  },
+  "Product Y": {
+    "corn":    {"rate": "6.0", "unit": "fl oz/acre", "max_applications": 2, "phi_days": 14, "rei_hours": 4, "source": "product_y_label#Crops and Application Rates"},
+    "soybean": {"rate": "4.0", "unit": "fl oz/acre", "max_applications": 2, "phi_days": 21, "rei_hours": 4, "source": "product_y_label#Crops and Application Rates"}
+  }
+}

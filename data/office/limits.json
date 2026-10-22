@@ -1,0 +1,15 @@
+{
+  "meals": {
+    "tier1": {"daily_cap": 95, "dinner": 55, "cities": "New York, San Francisco, London", "source": "expense_policy#Meals while travelling"},
+    "tier2": {"daily_cap": 75, "dinner": 44, "cities": "Chicago, Boston, Austin, Toronto", "source": "expense_policy#Meals while travelling"},
+    "tier3": {"daily_cap": 58, "dinner": 34, "cities": "everywhere else", "source": "expense_policy#Meals while travelling"}
+  },
+  "lodging": {
+    "tier1": {"nightly_cap": 320, "source": "expense_policy#Lodging"},
+    "tier2": {"nightly_cap": 240, "source": "expense_policy#Lodging"},
+    "tier3": {"nightly_cap": 180, "source": "expense_policy#Lodging"}
+  },
+  "home_office": {"allowance": 500, "period_years": 2, "source": "equipment_policy#Home office allowance"},
+  "mileage": {"rate_per_mile": 0.67, "source": "expense_policy#Ground transport"},
+  "phone_stipend": {"monthly": 45, "source": "equipment_policy#Phones"}
+}

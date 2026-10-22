@@ -1,0 +1,24 @@
+{"q": "How long must workers stay out of a treated field after applying Product X?", "expected_doc": "product_x_label", "hard": false}
+{"q": "days between the last Product Y spray on beans and harvest", "expected_doc": "product_y_label", "hard": false}
+{"q": "combine shows E212 what do I check", "expected_doc": "harvester_manual", "hard": false}
+{"q": "hydraulic filter part number HX-900", "expected_doc": "harvester_manual", "hard": false}
+{"q": "which growth stage is corn most vulnerable to dry weather", "expected_doc": "agronomy_guide", "hard": false}
+{"q": "how many aphids per plant before spraying beans", "expected_doc": "agronomy_guide", "hard": false}
+{"q": "Can I mention warranty in a reply to a customer?", "expected_doc": "service_policy", "hard": false}
+{"q": "seasonal maximum of Product X on corn", "expected_doc": "product_x_label", "hard": false}
+{"q": "feeder house sensor gap", "expected_doc": "harvester_manual", "hard": false}
+{"q": "machine overheating alarm what should the operator do", "expected_doc": "harvester_manual", "hard": false}
+{"q": "typical N rate for corn in Iowa", "expected_doc": "agronomy_guide", "hard": false}
+{"q": "resistance management rotation for the fungicide", "expected_doc": "product_y_label", "hard": false}
+{"q": "can Product X go in the tank with glyphosate", "expected_doc": "product_x_label", "hard": false}
+{"q": "when to change engine oil on the combine", "expected_doc": "harvester_manual", "hard": false}
+{"q": "my guys want to walk the field this afternoon, we sprayed this morning", "expected_doc": "product_x_label", "hard": true}
+{"q": "the field backs onto a creek, how far back do I need to stay", "expected_doc": "product_x_label", "hard": true}
+{"q": "it's blowing hard out there, should we hold off today", "expected_doc": "product_x_label", "hard": true}
+{"q": "customer is upset and wants to know if this is going to cost him anything", "expected_doc": "service_policy", "hard": true}
+{"q": "he keeps asking when the part will show up", "expected_doc": "service_policy", "hard": true}
+{"q": "engine is running hot, can he finish the field first", "expected_doc": "harvester_manual", "hard": true}
+{"q": "when do beans start to flower", "expected_doc": "agronomy_guide", "hard": true}
+{"q": "two sprays of the same fungicide back to back, is that a problem", "expected_doc": "product_y_label", "hard": true}
+{"q": "anything I should do before putting two products in the same tank", "expected_doc": "product_x_label", "hard": true}
+{"q": "how much of the blue jug can go on corn over the whole year", "expected_doc": "product_x_label", "hard": true}

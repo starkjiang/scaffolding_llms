@@ -1,0 +1,24 @@
+{"q": "How much can I spend on dinner in Chicago?", "expected_doc": "expense_policy", "hard": false}
+{"q": "what is the nightly hotel limit in New York", "expected_doc": "expense_policy", "hard": false}
+{"q": "can I claim a beer with dinner", "expected_doc": "expense_policy", "hard": false}
+{"q": "how much do I get back per mile for driving my own car", "expected_doc": "expense_policy", "hard": false}
+{"q": "do I need a receipt for a $19 sandwich", "expected_doc": "expense_policy", "hard": false}
+{"q": "how long do I have to submit a claim", "expected_doc": "expense_policy", "hard": false}
+{"q": "budget for a desk and chair working from home", "expected_doc": "equipment_policy", "hard": false}
+{"q": "can the company pay for my phone handset", "expected_doc": "equipment_policy", "hard": false}
+{"q": "who signs off on a $4000 purchase", "expected_doc": "approval_matrix", "hard": false}
+{"q": "is it ok to break a big purchase into two smaller claims", "expected_doc": "approval_matrix", "hard": false}
+{"q": "what if I lost the receipt", "expected_doc": "approval_matrix", "hard": false}
+{"q": "am I allowed to tell someone their claim is approved", "expected_doc": "finance_comms_policy", "hard": false}
+{"q": "software subscription costing 300 a year", "expected_doc": "equipment_policy", "hard": false}
+{"q": "second monitor for my home desk", "expected_doc": "equipment_policy", "hard": false}
+{"q": "we had wine with the client dinner, is that fine", "expected_doc": "expense_policy", "hard": true}
+{"q": "I booked the hotel myself, 290 a night in Boston", "expected_doc": "expense_policy", "hard": true}
+{"q": "took a car but it was one of the nicer tiers", "expected_doc": "expense_policy", "hard": true}
+{"q": "bought a standing desk for 620, what happens now", "expected_doc": "equipment_policy", "hard": true}
+{"q": "can you just let them know the money is coming", "expected_doc": "finance_comms_policy", "hard": true}
+{"q": "the coffee was 9 dollars, do I need the paper slip", "expected_doc": "expense_policy", "hard": true}
+{"q": "this was turned down once already, can I put it in again", "expected_doc": "approval_matrix", "hard": true}
+{"q": "my role keeps me on the phone all day, can the company chip in", "expected_doc": "equipment_policy", "hard": true}
+{"q": "a tool the team wants costs 25 a month", "expected_doc": "equipment_policy", "hard": true}
+{"q": "who has to sign off on something costing twelve thousand", "expected_doc": "approval_matrix", "hard": true}

@@ -1,0 +1,8 @@
+{
+  "MEALS": {"title": "Meal claim", "doc": "expense_policy", "section": "Meals while travelling", "sensitive": false,
+            "article": "Daily caps are $95 tier 1, $75 tier 2, $58 tier 3, per person including tax and tip. Alcohol is never reimbursable. Client meals may exceed the cap only with advance manager approval and names on the receipt."},
+  "LODGING": {"title": "Lodging claim", "doc": "expense_policy", "section": "Lodging", "sensitive": false,
+              "article": "Nightly caps are $320 tier 1, $240 tier 2, $180 tier 3. Book through the corporate travel tool where a compliant option exists. Above-cap stays need written approval before booking, not after."},
+  "EQUIP": {"title": "Equipment or home office claim", "doc": "equipment_policy", "section": "Home office allowance", "sensitive": false,
+            "article": "Home office allowance is $500 every two years, covering desk, chair, lighting, or a second monitor. Furniture over $500 needs an ergonomic assessment first. Handset purchases are never reimbursed."}
+}
