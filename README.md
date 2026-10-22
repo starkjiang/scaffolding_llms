@@ -126,13 +126,6 @@ Each Track B file has numbered `TODO`s and a matching file in `solutions/`.
 Model names come from `.env` (`LLM_MODEL_SMALL`, `LLM_MODEL_LARGE`) so tiering is a one-line change.
 To add another provider, subclass `LLM`, implement `_chat`, and the two message-format helpers.
 
-## Instructor setup checklist
-
-- [ ] Provision per-participant keys the day before; put them in a shared `.env` snippet.
-- [ ] Run `python -m pytest -q && python capstone.py eval` on the venue network with a real key.
-- [ ] Print (or share) the `TODO` list per lab; most pairs need the hint for Lab 2 TODO 3 and Lab 3 TODO 4.
-- [ ] Keep the `solutions/` folder public — the point is comparison, not secrecy.
-
 ## License
 
 MIT — see `LICENSE`. Sample documents are fictional and for training only; never use them as
